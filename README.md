@@ -3,18 +3,14 @@ Generating CNN and their adversial images(tensorflow)
 
 1)  MNIST dataset
 
-PERTURBATION    CNN ACCURACY
+PERTURBATION of 0.00 with 97.9% CNN ACCURACY
+PERTURBATION of 0.10 with 50.6% CNN ACCURACY
+PERTURBATION of 0.15 with 19.9% CNN ACCURACY
+PERTURBATION of 0.20 with  6.4% CNN ACCURACY
+PERTURBATION of 0.25 with  1.4% CNN ACCURACY
+PERTURBATION of 0.30 with  0.4% CNN ACCURACY
+PERTURBATION of 0.35 with  0.2% CNN ACCURACY
 
-   0.00             97.9%
 
-   0.10             50.6%
 
-   0.15             19.9%
 
-   0.20              6.4%
-
-   0.25              1.4%
-
-   0.30              0.4%
-
-   0.35              0.2%
